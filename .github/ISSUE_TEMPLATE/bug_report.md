@@ -1,4 +1,3 @@
-
 ---
 
 name: "🐛 Bug Report"
